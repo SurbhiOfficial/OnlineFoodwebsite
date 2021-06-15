@@ -1,5 +1,6 @@
 # OnlineFoodwebsite
-The FrontEnd Design of Online Food  Ordering by using HTML5 &amp; CSS3.
+The FrontEnd Design of Online Food  Ordering by using HTML5 & CSS3.
+
 INTERNAL CSS in this Project .
 
 **Design**
